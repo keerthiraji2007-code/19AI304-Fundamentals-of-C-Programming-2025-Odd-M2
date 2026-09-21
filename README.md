@@ -321,9 +321,9 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+
 #program:
 ~~~
-
 #include<stdio.h>
 
 int main(){
@@ -340,12 +340,9 @@ int main(){
     return 0;
 }
 
-
 #output:
 ~~~
-
-<img width="509" height="386" alt="image" src="https://github.com/user-attachments/assets/f897b7d3-ad1a-43eb-bf2e-dac46242297c" />
-
+<img width="509" height="386" alt="image" src="https://github.com/user-attachments/assets/ea2313cf-1179-4136-904b-9096ac701a1e" />
 
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
