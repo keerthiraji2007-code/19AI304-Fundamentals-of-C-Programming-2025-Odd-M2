@@ -238,10 +238,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-~~~~
-#include<stdio.h>
-
-int main(){
+~~~
+ #include<stdio.h>
+ int main(){
     int n, i, j, k;
     scanf("%d", &n);
     
@@ -265,15 +264,13 @@ int main(){
     
     return 0;
 }
-
-
-# Output:
+#Output:
 ~~~
-
 <img width="685" height="432" alt="image" src="https://github.com/user-attachments/assets/42f4358a-5589-4754-a3f7-1761b6ccdc3b" />
 
-# Result: 
-  Thus, the program was implemented and executed successfully, and the required output was obtained.
+#Result: 
+  ~~~
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
   
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
